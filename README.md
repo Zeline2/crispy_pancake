@@ -37,6 +37,7 @@ When the player enters a guess, the program tells them whether the guess is too 
 - Use the “Very Close” hints to adjust efficiently  
 - Try Hard mode for more challenge  
 - If you get stuck, use the quit command to see the answer
+- Experiment with more advanced computer science strategies like binary search to get better results
 ---
 
 ## Requirements
@@ -118,6 +119,11 @@ If you’d like to make this project better:
 6. Open a **Pull Request** describing what you changed
 
 ---
+
+## Future Plans
+- Add graphical interface using Tkinter
+- Add leaderboard
+- Port to web using Flask
 
 ## Author
 Created by **Zelin Huang** for learning and practicing Python basics.
